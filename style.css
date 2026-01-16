@@ -332,3 +332,39 @@ background-color:#f3f3f3f5;
         height: 200px;
         object-fit: contain;
     }
+    .sign-section{
+        width:100%;
+        height: 200px;
+        background-color: #FFFFFF;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        
+    }
+    .sign-section h2{
+        font-size: 25px;
+        font-weight: 700;
+        color: #0F1111;
+        margin-bottom: 10px;
+    }
+    .sign-section button{
+        background-color: #ffd814;
+        width: 200px;
+        height: 30px;
+        color: #0F1111;
+        font-size: 15px;
+        border-radius: 20px;
+        border-color: transparent;
+        margin-bottom: 10px;
+        
+    }
+    .sign-intro{
+        color: #0F1111;
+        font-size: 15px;
+    }
+    .sign-intro a{
+        color: #2162a1;
+    }
